@@ -1,0 +1,8 @@
+access_key = 
+secret_key = 
+
+
+TOKEN = '7592482711:AAFcRl6ADN9aRzOgzippksNUQibTPnGZJdM'
+
+CHANNEL_ID = -1002672180335
+ADMIN_ID = 1032884383
